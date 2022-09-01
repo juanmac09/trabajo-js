@@ -1,0 +1,25 @@
+body{
+    background-color: #b49999;
+}
+.btns{
+    display: block;
+    margin-left: 42%;
+    width: 15%;
+    height: 50px;
+    margin-top: 1%;
+    cursor: pointer;
+    background-color: #3f3939;
+    color: #fff;
+    font-weight: bold;
+    border: none;
+    transition:all 0.5s;
+    text-transform: uppercase;
+}
+
+.btns:hover{
+
+    color: #3f3939;
+    background-color: #fff;
+    border-radius: 5%;
+    
+}
